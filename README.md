@@ -7,4 +7,10 @@ Current screen:
 
 Installation and Use (ToDo)
 
-
+Upcoming Features:
+   1) Better CBC file management
+   2) CBC Export capabilities
+   3) Import CBC files via File menu
+   4) Multiple file encryption and archiving
+   5) Drag and drop capability
+   6) Command Line tool Zim for automation >:)
