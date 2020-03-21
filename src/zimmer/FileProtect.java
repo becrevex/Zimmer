@@ -470,7 +470,7 @@ public class FileProtect {
             // Stream the cipher text to decrypt it with the unpacked salt and IV
             InputStream cipherstream = new ByteArrayInputStream(buffer);
             FileOutputStream fos = new FileOutputStream(outputFile);
-            byte[] in = new byte[16];
+            byte[] in = new byte[64];
             int read;
             while ((read = cipherstream.read(in)) != -1) {
                     byte[] output = cipher.update(in, 0, read);
