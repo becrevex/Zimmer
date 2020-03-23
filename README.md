@@ -3,7 +3,7 @@
 Zimmer is Java-based file data protection utility that can protect a file in a pinch and allow you to maintain your privacy when transferring or saving files.  
 
 Current screen:
-<img align="center" src="https://github.com/becrevex/Zimmer/blob/master/zfe2.JPG" width="750" height="400" />
+<img align="center" src="https://github.com/becrevex/Zimmer/blob/master/zfe2.JPG" width="625" height="400" />
 
 Installation and Use (ToDo)
 
